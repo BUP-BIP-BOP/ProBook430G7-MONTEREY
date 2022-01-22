@@ -15,4 +15,5 @@ SD CARD slot - No drivers/not supported
 Fingerprint Scanner - No drivers/not supported
 
 Donate:
+
 Eth: 0xF438Bb2070c0445d72dd5eFdFEF86246c127Bf66
